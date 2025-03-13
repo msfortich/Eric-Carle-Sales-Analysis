@@ -16,4 +16,9 @@ By leveraging sales data, this analysis provides valuable insights into consumer
 ## **Data & Tools**
 - **Data Source:** BookScan sales data, which provides real-world sales figures across various retailers.
 - **Tools Used:** Python (Pandas, NumPy) for data cleaning and processing, Matplotlib and Seaborn for visualization.
+- 
+## **Structure**
+- **Data** - BookScan sales data.  
+- **Presentation** - PDF of PowerPoint with findings.
+- **src** - Source code for data analysis.  
 
