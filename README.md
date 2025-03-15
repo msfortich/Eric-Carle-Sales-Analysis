@@ -1,7 +1,7 @@
 # **Eric Carle Sales Analysis 2020 - Aug 2024**
 
 ## **Project Overview**
-This project conducts an **in-depth sales analysis** of Eric Carle’s books using **BookScan data** to understand key market trends, sales patterns, and performance drivers. The goal is to examine how his books have performed over time, identify which formats and characters are the most successful, and analyze new releases' impact on the market.
+This project conducts an **in-depth sales analysis** of Eric Carle’s books using **BookScan data** to understand key market trends and sales patterns. The goal is to examine how his books have performed over time, identify which formats and characters are the most successful, and analyze new releases' impact on the market.
 
 By leveraging sales data, this analysis provides valuable insights into consumer preferences, seasonal trends, and publisher contributions, offering a data-driven approach to understanding the longevity and growth of Eric Carle’s literary impact.
 
